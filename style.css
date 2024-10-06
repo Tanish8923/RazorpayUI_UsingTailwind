@@ -1336,10 +1336,6 @@ video {
   background-image: url(images/instant-settlement-bg.svg);
 }
 
-.bg-\[url\(\.\/images\/feature-section-2BG\.svg\)\] {
-  background-image: url(./images/feature-section-2BG.svg);
-}
-
 .bg-cover {
   background-size: cover;
 }
